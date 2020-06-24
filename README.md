@@ -1,11 +1,13 @@
 ## Metropolis
 
 
-**IMPORTANT NOTICES FOR VERSION 1.0**
+**IMPORTANT NOTICES**
 
-* The package and theme name changed from *m* to *metropolis*!
-* The `title format` values have been restructured. Please refer to the
-  [manual][].
+This is work in progress! Planed changes are:
+
+* `Source Sans|Serif|Code Pro` (include `Source Han Sans|Serif|Mono`) as default fonts
+* Adapting colour scheme especialy of the dark theme 
+* Set dark theme as default
 
 ---
 
